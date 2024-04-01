@@ -3,7 +3,7 @@
   display: flex;
   gap: 20px;
   padding: 40px;
-  background-image: url('C:\Users\NUGGET\Desktop\noteapp\src\assets\img.png.jpg');
+  background-image: url(./assets/img.png.jpg);
   background-size: cover;
   background-position: center;
 }
